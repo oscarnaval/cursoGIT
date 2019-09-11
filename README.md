@@ -1,2 +1,2 @@
-# cursoGIT
+cursoGIT
 Repo curso git

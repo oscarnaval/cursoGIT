@@ -1,6 +1,3 @@
-cursoGIT
-Repo curso git
-Cambio1
-Cambio2
-Cambio3
-Cambio comandos
+** CURSO GIT  
+ejercicio 2 --> cambio 1  
+ejercicio 2 --> cambio 2
